@@ -23,8 +23,8 @@
 #### ▪ How to Run Locally
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/ashishpatel8736/Spam-Classification-Model-Application.git
-    cd Spam-Classification-Model-Application
+    git clone https://github.com/AvishkarPatil/InBoxSpam.git
+    cd InBoxSpam
     ```
 2. **Install Dependencies**:
     Ensure you have Python installed. Run the following to install the required libraries:
