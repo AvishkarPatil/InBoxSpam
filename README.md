@@ -2,10 +2,11 @@
 
 <h3 align="center">Spam Email Classification</h3>
 
+<div align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/10733/10733107.png" width="150">
+</div>
 
-<p align="center">This is a <b>Machine Learning application</b>> built with Python and Streamlit that classifies emails as <b>spam</b> or <b>ham (not spam)</b>. It leverages a trained ML model to analyze text input and predict whether the email is spam or not.</p>
-
----
+<p align="center">This is a <b>Machine Learning application</b> built with Python and Streamlit that classifies emails as <b>spam</b> or <b>ham (not spam)</b>. It leverages a trained ML model to analyze text input and predict whether the email is spam or not.</p>
 
 ### ✨ Features
 - **Interactive User Interface**: Enter an email and instantly classify it as spam or not.
@@ -15,7 +16,7 @@
 
 ---
 
-### 📄 Documentation
+### Documentation
 
 #### How to Run
 1. **Clone the Repository**:
@@ -37,7 +38,7 @@
     - Enter email text in the text box provided.
     - Click **Classify** to check if the email is spam or not.
 
-### How to Host on Streamlit
+#### How to Host on Streamlit
 1. **Create a Streamlit Account**:
     - Go to [Streamlit](https://streamlit.io/) and sign up for an account.
 2. **Deploy the Application**:
@@ -48,5 +49,9 @@
 
 ---
 
-## 🛡️ License
+### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+----- 
+
+<h4 align='center'>© 2024 Avishkar Patil</h4>
