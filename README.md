@@ -1,24 +1,26 @@
 <h2 align="center">InBoxSpam</h2>
 
-<h3 align="center">Spam Email Classification</h3>
+<h3 align="center">Spam Email Classification</h3><br>
 
 <div align="center">
 <img src="https://cdn-icons-png.flaticon.com/512/10733/10733107.png" width="150">
 </div>
+<br>
 
 <p align="center">This is a <b>Machine Learning application</b> built with Python and Streamlit that classifies emails as <b>spam</b> or <b>ham (not spam)</b>. It leverages a trained ML model to analyze text input and predict whether the email is spam or not.</p>
+<br>
 
-### ✨ Features
+### ◈ Features
 - **Interactive User Interface**: Enter an email and instantly classify it as spam or not.
 - **Streamlit-Powered**: Provides a seamless and responsive web interface.
 - **Pre-Trained ML Model**: Uses a Naive Bayes classifier for efficient and accurate predictions.
 - **Custom Vectorization**: Email text is preprocessed with a TF-IDF vectorizer to feed the model.
 
----
+<br>
 
-### Documentation
+### ◈ Documentation
 
-#### How to Run
+#### ▪ How to Run Locally
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/ashishpatel8736/Spam-Classification-Model-Application.git
@@ -38,7 +40,8 @@
     - Enter email text in the text box provided.
     - Click **Classify** to check if the email is spam or not.
 
-#### How to Host on Streamlit
+
+#### ▪ How to Host on Streamlit
 1. **Create a Streamlit Account**:
     - Go to [Streamlit](https://streamlit.io/) and sign up for an account.
 2. **Deploy the Application**:
@@ -46,11 +49,7 @@
     - Connect your GitHub repository.
     - Select the branch and the main file (`app.py`).
     - Click **Deploy**.
-
----
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<br>
 
 ----- 
 
